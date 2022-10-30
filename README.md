@@ -1,6 +1,6 @@
-# mcrn-expo-easy-starter
+# chava-expo-React-Native-starter-Template
 
-A React Native (Expo) mobile app starter template to get you up and running easy and quickly. 🚀
+A React Native (Expo) mobile app starter template to get you up and running easy and quickly. :)
 
 ```
 # Install dependencies
